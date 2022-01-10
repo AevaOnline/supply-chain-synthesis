@@ -25,7 +25,9 @@ one, of these domains, and invite correction wherever I have misrepresented, or
 failed to account for, distinction.
 
 In the end, I will consider this effort a wild success if it facilitates more
-efficient communication of designs and expectations between domain expters.
+efficient communication of designs and expectations between domain expters,
+and helps the community-at-large identify gaps in the supply chain which we
+can collectively work to secure.
 
 Status
 ----
