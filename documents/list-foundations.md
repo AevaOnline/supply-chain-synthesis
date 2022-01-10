@@ -1,11 +1,58 @@
-**STATUS: RAW IMPORT - PLEASE EDIT**
+Much work is already underway in non-profit consortia, industry groups, and standards bodies. In this section, we should enumerate all public domain work relevant here, whether its form is discussions, code, standards, or other.
 
-Much work is already underway in non-profit consortia, industry groups, and
-standards bodies. In this section, we should enumerate all public domain work
-relevant here, whether its form is discussions, code, standards, or other.
+This section describes the foundation or public entity wherein working groups are gathering, and should list such items as: mailing lists, slack channels, websites, and publications. Please list code projects in the following section.
 
-This section describes the foundation or public entity wherein working groups
-are gathering, and should list such items as: mailing lists, slack channels,
-websites, and publications. Please list code projects in the following section. 
-
-**TODO: Insert list or table here **
+-   Open Container Initiative (OCI): ...
+-   Open Source Security Foundation (OpenSSF): 
+    -   Various working groups & discussions
+    -   Has published several recommendations for OSS project health
+        -   Eg <https://github.com/ossf/scorecard>
+        -   <https://metrics.openssf.org>
+    -   Created some code to provide analysis capabilities to the public (e.g, scoring project criticality and health)
+-   Continuous Delivery Foundation (CDF):
+    -   JenkinsX: ...
+    -   [Tekton Chains](https://cd.foundation/blog/2021/06/18/verifiable-supply-chain-metadata-for-tekton/)
+-   IETF " Remote ATtestation procedureS" Working Group (RATS WG): 
+    -   <https://github.com/ietf-rats> 
+-   Cloud Native Computing Foundation (CNCF)
+    -   Security TAG software supply chain Working Group
+        -   How to join: see [Meeting Notes](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g)
+        -   "[Best Practices for Build Processes](https://docs.google.com/document/d/1twMD8ztZQMwV4nPJZWVXpg6YCckBkUI5lbyHBoHcbRo/edit#heading=h.6arp2l6mbvj7)"
+        -   STAG [Secure Supply Chain Security Paper](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/sscsp.md) (finalized / v1.0)
+        -   Work underway to create Reference Architecture for "Secure Software Factory" (ETA: October). [Meetings weekly](https://docs.google.com/document/d/170y5biX9k95hYRwprITprG6Mc9xD5glVn-4mB2Jmi2g).
+    -   Several CNCF projects which support supply chain security may also be applicable outside of CNCF
+    -   Confidential Container [project proposal](https://docs.google.com/document/d/1thHNIWUhU8d5zzRVA9IFWXstx-IA0TK3WKG_hgkK1Ak/edit) under review
+-   Confidential Computing Consortium (CCC)
+    -   Libraries for hardware attestation, projects for utilizing TEEs to create secure build environments, provide non-repudiation of developer identity, and integrity guarantees on execution environments
+    -   White papers on use 
+    -   Some CC projects are being used as a framework for SSC work, such as [CCF](https://github.com/Microsoft/CCF) → [SCIM](https://github.com/microsoft/scim)
+-   Open Infra Foundation (OIF)
+    -   Kata Containers: active work to leverage TEEs to provide 'confidential container' components
+    -   Kata may be used by Kubernetes, as with CC projects above, to provide additional security guarantees to a software supply chain
+-   Linux Kernel
+    -   Active work to harden guests against host ("type 3 isolation"), which could provide a mechanism for secure build environments
+    -   [Conf.Compute microconference at Linux Plumbers](https://www.linuxplumbersconf.org/event/11/page/104-accepted-microconferences#cont-cf)
+    -   [Kernel Self Protecting Project](https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project)
+-   Reproducible Builds
+    -   <https://reproducible-builds.org/>
+    -   Nix + NixOS - <https://r13y.com/>
+    -   Bazel - <https://bazel.build/>
+    -   Pants - <https://www.pantsbuild.org/v2.0>
+    -   GNU Guix - <https://guix.gnu.org/>
+    -   Debian Linux  - <https://wiki.debian.org/ReproducibleBuilds>
+    -   Arch Linux - <https://wiki.archlinux.org/title/Reproducible_Builds>
+    -   Buildpacks - <https://buildpacks.io/docs/reference/reproducibility/>
+    -   Kaniko - <https://github.com/GoogleContainerTools/kaniko>
+    -   rebuilderd - <https://github.com/kpcyrd/rebuilderd>
+    -   oss-reproducible - <https://github.com/Microsoft/OSSGadget>
+-   Compiler SBOM generation
+    -   Terrapin / dotNet - <https://github.com/dotnet/roslyn/blob/main/docs/compilers/terrapin.md> 
+    -   Rust?
+    -   Go?
+    -   Python?
+-   What else is missing?
+-   MITRE
+-   OASIS
+-   CHAOSS
+-   NTIA Framing WG
+-   NTIA & CERT with ISO/IEC - limited high level
