@@ -20,6 +20,8 @@ If you are a project owner, please provide a concise description of the project 
     -   [SPDX SBoM CLI generator](https://github.com/spdx/spdx-sbom-generator) - a tool to help those in the community that want to generate SPDX Software Bill of Materials (SBOMs) with current package managers. It has a command line Interface (CLI) that lets you generate SBOM information, including components, licenses, copyrights, and security references of your software using SPDX v2.2 specification and aligning with the current known minimum elements from NTIA. It automatically determines which package managers or build systems are actually being used by the software.  Supports: GoMod (go), Cargo (Rust), Composer (PHP), DotNet (.NET), Maven (Java), NPM (Node.js), Yarn (Node.js), PIP (Python), Pipenv (Python), Gems (Ruby), Swift Package Manager (Swift)
     -   [Sigstore](https://sigstore.dev/what_is_sigstore/): empowers software developers to securely sign software artifacts such as release files, container images, binaries, bill of material manifests and more. Signing materials are then stored in a tamper-resistant public log.
         -   Comprised of several projects: sigstore, rekor, cosign, fulcio, ...
+          - [Cosign/Sget](https://github.com/sigstore/cosign)
+          - [Rekor CLI](https://github.com/sigstore/rekor)
 -   Scanning and analysis tools
     -   [Grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems.
     -   [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort): A suite of tools to assist with reviewing Open Source Software dependencies.
@@ -30,6 +32,7 @@ If you are a project owner, please provide a concise description of the project 
     -   [tern-tools/tern](https://github.com/tern-tools/tern): Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
     -   [ComponentDetection](https://github.com/microsoft/component-detection): ComponentDetection is a package scanning tool intended to be used at build time. CD produces a graph-based output of all detected components and supports a variety of open source package ecosystems.
 -   Policy & admission control tools
+    - [Kyverno](https://kyverno.io/)
     -   [Tekton Chains](https://github.com/tektoncd/chains): a Kubernetes Custom Resource Definition (CRD) controller that allows you to manage your supply chain security in Tekton.
     -   [Connaisseur](https://sse-secure-systems.github.io/connaisseur/v2.0.0/): A Kubernetes admission controller to integrate container image signature verification and trust pinning into a cluster.
     -   [Open Policy Agent](https://www.openpolicyagent.org/): policy-based admission control for cloud native systems.
@@ -53,3 +56,4 @@ Work streams not yet in a project // which don't yet have code
 -   [GitBOM](https://hackmd.io/@aeva/draft-gitbom-spec): a novel and minimalistic approach to generating artifact trees at build time, thereby enabling launch-time comparison of vulnerability data against a complete artifact tree for open source projects.
 -   (NTIA) [Vulnerability Exploitability eXchange](https://docs.google.com/document/d/1sylBGNooKtf220RHQn1I8pZRmqXZQADDQ_TOABrKTpA/edit#heading=h.ss425olznxo) draft
 -   (Google) [Shared Vulnerability Format](https://docs.google.com/document/d/1sylBGNooKtf220RHQn1I8pZRmqXZQADDQ_TOABrKTpA/edit#heading=h.ss425olznxo) proposal
+- [buildpacks]: https://buildpacks.io/ (S2I, used in CNCF TSSF, [great writeup](https://zt.dev/posts/buildpacks-sbom-opportunities/) on its SBOM capabilities and roadmap)
