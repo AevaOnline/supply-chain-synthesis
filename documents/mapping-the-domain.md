@@ -9,4 +9,7 @@ This is work in progress, and thus incomplete.
 
 ## Prior art, mostly domain-specific
 
-* [CNCF Reference Architecture (early draft)](https://docs.google.com/drawings/d/1wdoWFL8hfclMtgoYYtlfhuSVtoZMXhBRFdIKpiclCfU/edit)
+* CNCF: The Secure Software Factory
+    * [Landing page](https://thesecuresoftwarefactory.github.io/ssf/)
+    * [Reference architecture](https://docs.google.com/document/d/1FwyOIDramwCnivuvUxrMmHmCr02ARoA3jw76o1mGfGQ/edit)
+    * [Prototype implementation](https://github.com/thesecuresoftwarefactory/ssf)
