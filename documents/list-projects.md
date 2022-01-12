@@ -8,12 +8,12 @@ Please note:
 
 ## Formats, specifications, and standards
 
-    -   [SPDX](https://spdx.dev/specifications/)
-    -   [CycloneDX](https://github.com/CycloneDX/)
-    -   [SWID](https://standards.iso.org/iso-iec/19770/-2/2015-current/schema.xsd) ([CoSWID](https://www.ietf.org/archive/id/draft-ietf-sacm-coswid-18.html), [NISTIR 8060](https://doi.org/10.6028/NIST.IR.8060))
-    -   CPE, SHI, SParts,
-    -   [OWASP SCVS](https://owasp.org/www-project-software-component-verification-standard/): standard that provides controls and best practices for increasing trust in your dependencies in your supply chain.
-    -   [package-url/purl-spec:](https://github.com/package-url/purl-spec) A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby (github.com)
+-   [SPDX](https://spdx.dev/specifications/)
+-   [CycloneDX](https://github.com/CycloneDX/)
+-   [SWID](https://standards.iso.org/iso-iec/19770/-2/2015-current/schema.xsd) ([CoSWID](https://www.ietf.org/archive/id/draft-ietf-sacm-coswid-18.html), [NISTIR 8060](https://doi.org/10.6028/NIST.IR.8060))
+-   CPE, SHI, SParts,
+-   [OWASP SCVS](https://owasp.org/www-project-software-component-verification-standard/): standard that provides controls and best practices for increasing trust in your dependencies in your supply chain.
+-   [package-url/purl-spec:](https://github.com/package-url/purl-spec) A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby (github.com)
 
 ## SBOM generation & distribution tools
 
@@ -33,14 +33,14 @@ Please note:
 
 ## Scanning and analysis tools
 
-    -   [Grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems.
-    -   [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort): A suite of tools to assist with reviewing Open Source Software dependencies.
-    -   [Repology (github.com)](https://github.com/repology) and [Libraries.io (github.com)](https://github.com/librariesio)
-    -   [nexB/scancode-toolkit:](https://github.com/nexB/scancode-toolkit) ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
-    -   [recipy/recipy:](https://github.com/recipy/recipy)  Effortless method to record provenance in Python 
-    -   [DependencyTrack/dependency-track:](https://github.com/DependencyTrack/dependency-track)  Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. 
-    -   [tern-tools/tern](https://github.com/tern-tools/tern): Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
-    -   [ComponentDetection](https://github.com/microsoft/component-detection): ComponentDetection is a package scanning tool intended to be used at build time. CD produces a graph-based output of all detected components and supports a variety of open source package ecosystems.
+-   [Grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems.
+-   [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort): A suite of tools to assist with reviewing Open Source Software dependencies.
+-   [Repology (github.com)](https://github.com/repology) and [Libraries.io (github.com)](https://github.com/librariesio)
+-   [nexB/scancode-toolkit:](https://github.com/nexB/scancode-toolkit) ScanCode detects licenses, copyrights, package manifests & dependencies and more by scanning code ... to discover and inventory open source and third-party packages used in your code.
+-   [recipy/recipy:](https://github.com/recipy/recipy)  Effortless method to record provenance in Python 
+-   [DependencyTrack/dependency-track:](https://github.com/DependencyTrack/dependency-track)  Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. 
+-   [tern-tools/tern](https://github.com/tern-tools/tern): Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
+-   [ComponentDetection](https://github.com/microsoft/component-detection): ComponentDetection is a package scanning tool intended to be used at build time. CD produces a graph-based output of all detected components and supports a variety of open source package ecosystems.
 
 ## Policy & admission control tools
 
