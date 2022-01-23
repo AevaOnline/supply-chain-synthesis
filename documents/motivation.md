@@ -4,7 +4,7 @@
 
 Driven by events such as high-profile software supply chain attacks and policy developments that garner media coverage, the concept of the **software supply chain** and the problem of _securing_ it has been introduced to laypeople at an unprecedented pace, creating an opportunity window for the industry to accelerate the outcomes of our collective efforts.
 
-Increased attention from non-practitioner decision makers, such as business leaders and policymakers, whom are looking for common frameworks to understand how it impacts their areas of responsibility and value creation.
+This has brought increased attention from non-practitioner decision makers, such as business leaders and policymakers, who are looking for common frameworks to understand how it impacts their areas of responsibility and value creation.
 
 Increased attention from practitioners in the software industry that, while familiar with some of the underlying risks and principles, perceive the mainstreaming as a call for urgent action. This surge in attention from the public can't be given for granted; high cognitive load might lead to attention fatigue losing end users as allies.
 
