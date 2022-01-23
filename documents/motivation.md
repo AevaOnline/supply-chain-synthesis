@@ -18,7 +18,7 @@ What's most important, though, is that what we have is not enough for the threat
 
 There are four main elements of the current explosion of ideas and value creation surge:
 
-1. Practitioners across domains are rapidly prototyping ideas, the vast majority packaged as open source software, and communicating this across open communities
+1. Practitioners across domains are rapidly prototyping ideas, often packaged as open source software, and communicating this across open communities
 2. Already existing solutions in established domains are being reevaluated with a different perspective and in some case adapted to work in broader scenarios
 3. Private (VC) investment in startups and other ventures that are primarily specializing in software supply chain security remains timid, especially when compared to other startup specialization areas, but has started to materialize
 4. Large software companies are funding industry-wide initiatives, organizations and programs specifically to tackle software supply chain security challenges
