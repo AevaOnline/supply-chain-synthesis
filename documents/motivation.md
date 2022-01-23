@@ -6,7 +6,7 @@ Driven by events such as high-profile software supply chain attacks and policy d
 
 This has brought increased attention from non-practitioner decision makers, such as business leaders and policymakers, who are looking for common frameworks to understand how it impacts their areas of responsibility and value creation.
 
-Increased attention from practitioners in the software industry that, while familiar with some of the underlying risks and principles, perceive the mainstreaming as a call for urgent action. This surge in attention from the public can't be given for granted; high cognitive load might lead to attention fatigue losing end users as allies.
+This has also brought increased attention from practitioners in the software industry that, while familiar with some of the underlying risks and principles, perceive the mainstream attention as a call for urgent action. This surge in attention from the public can't be taken for granted; high cognitive load might lead to attention fatigue at the cost of losing end users as allies.
 
 ## A surge in creation and investment
 
