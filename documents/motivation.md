@@ -10,7 +10,7 @@ This has also brought increased attention from practitioners in the software ind
 
 ## A surge in creation and investment
 
-The novelty that comes with more audiences getting exposed to the term can mask the fact that conceptual models, taxonomies, technologies, organizations, investments and other resources related to or impacting the software supply chain security have existed for a long time. However, the prior art has accumulated over time, from different domains and with different motivations.
+The novelty that comes with more audiences getting exposed to the term can mask the fact that conceptual models, taxonomies, technologies, organizations, investments and other resources related to or impacting the software supply chain security have existed for a long time. While prior art has been accumulating over considerable time, it exists within different domains, each with their own domain-specific languages, which are now converging due to increased attention, in a way that is creating some confusion.
 
 For example, when practitioners and non-practitioners search for information on _software supply chain security_ they are exposed to content that emanates from disciplines such as information security, supply chain management, software engineering, embedded systems, applied cryptography, threat management and a long etcetera, cutting across the public, private, defense and academic sector in every vertical and geography imaginable.
 
