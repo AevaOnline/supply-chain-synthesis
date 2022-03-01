@@ -50,7 +50,9 @@ Please note:
 -   [Open Policy Agent](https://www.openpolicyagent.org/): policy-based admission control for cloud native systems.
 - [conftest](https://github.com/open-policy-agent/conftest) is being used to [test SBOM against Rego policies](https://twitter.com/developerguyba/status/1466006915054542850?s=12) in OPA scenarios
 - [allstar](https://github.com/ossf/allstar) is an OpenSSF project to enforce policy in GitHub repos
--   Identity systems
+
+## Identity systems
+
 -   [SPIFFE/Spire](https://github.com/spiffe/spire): a toolchain of APIs for establishing trust between software systems across a wide variety of hosting platforms
 -   [PARSEC](https://github.com/parallaxsecond/parsec): an open-source initiative to provide a common API to hardware security and cryptographic services in a platform-agnostic way. This abstraction layer keeps workloads decoupled from physical platform details, enabling cloud-native delivery flows within the data center and at the edge
 -   [Keylime](https://github.com/keylime/keylime): provides an end-to-end solution for bootstrapping hardware rooted cryptographic trust for remote machines, the provisioning of encrypted payloads, and run-time system integrity monitoring
