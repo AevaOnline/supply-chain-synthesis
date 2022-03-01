@@ -59,16 +59,15 @@ Please note:
 -   [Veraison](https://github.com/veraison/veraison): will build software components that can be used to build Attestation Verification Services
     -   (Aeva's opinion) An early project release from Arm, which appears to be promising but may not be functionally complete yet.
 -   [CHARRA](https://github.com/Fraunhofer-SIT/charra): PoC to establish underlying trust relationships with an Attester using TPMs. Build for constrained node environments and application in firmware.
--   Miscellaneous // not yet categorised [ PLEASE ADD HERE ]
-1.  [SLSA](https://github.com/slsa-framework/slsa): security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity.
-2.  [Trillian](https://github.com/google/trillian): A transparent, highly scalable and cryptographically verifiable data store. 
-3.  <https://github.com/CycloneDX/cyclonedx-cli>
-4.  <https://github.com/vmware-samples/containers-with-sboms>: End to End SBOM generation, signing, and distribution for container images
-- TODO: parse https://github.com/awesomeSBOM/awesome-sbom
-    - Parse https://github.com/mlieberman85/supply-chain-examples 
 
 ## Not yet categorized
 
+- [SLSA](https://github.com/slsa-framework/slsa): security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity.
+- [Trillian](https://github.com/google/trillian): A transparent, highly scalable and cryptographically verifiable data store. 
+- [cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli)
+- [vmware-samples/containers-with-sboms](https://github.com/vmware-samples/containers-with-sboms): End to End SBOM generation, signing, and distribution for container images
+- TODO: parse https://github.com/awesomeSBOM/awesome-sbom
+    - Parse https://github.com/mlieberman85/supply-chain-examples 
 -   [SCIM](https://github.com/microsoft/scim): supports the ongoing verification of artifacts, including hardware and software components, where the authenticity of entities, evidence, policy, and artifacts can be assured and the actions of entities can be guaranteed to be trustworthy, authorized, non-repudiable, immutable, and auditable. 
 -   [GitBOM](https://hackmd.io/@aeva/draft-gitbom-spec): a novel and minimalistic approach to generating artifact trees at build time, thereby enabling launch-time comparison of vulnerability data against a complete artifact tree for open source projects.
 -   (NTIA) [Vulnerability Exploitability eXchange](https://docs.google.com/document/d/1sylBGNooKtf220RHQn1I8pZRmqXZQADDQ_TOABrKTpA/edit#heading=h.ss425olznxo) draft
