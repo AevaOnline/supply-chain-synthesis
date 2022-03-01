@@ -66,7 +66,7 @@ Please note:
 * [SLSA](https://github.com/slsa-framework/slsa): security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity.
 * [Trillian](https://github.com/google/trillian): A transparent, highly scalable and cryptographically verifiable data store.
 * [SCIM](https://github.com/microsoft/scim): supports the ongoing verification of artifacts, including hardware and software components, where the authenticity of entities, evidence, policy, and artifacts can be assured and the actions of entities can be guaranteed to be trustworthy, authorized, non-repudiable, immutable, and auditable.
-* [GitBOM](https://hackmd.io/@aeva/draft-gitbom-spec): a novel and minimalistic approach to generating artifact trees at build time, thereby enabling launch-time comparison of vulnerability data against a complete artifact tree for open source projects.
+* [GitBOM](https://gitbom.dev/): a novel and minimalistic approach to generating artifact trees at build time, thereby enabling launch-time comparison of vulnerability data against a complete artifact tree for open source projects.
 * (NTIA) [Vulnerability Exploitability eXchange](https://docs.google.com/document/d/1sylBGNooKtf220RHQn1I8pZRmqXZQADDQ_TOABrKTpA/edit#heading=h.ss425olznxo) draft
 * [Great writeup on VEX](https://zt.dev/posts/what-is-vex/), see a [full example](https://github.com/oasis-tcs/csaf/blob/master/csaf_2.0/examples/csaf/CVE-2018-0171-modified.json) in the `csaf` repo.
 * Also [osv-schema](https://github.com/ossf/osv-schema)
