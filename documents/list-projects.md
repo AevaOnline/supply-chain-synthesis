@@ -41,6 +41,7 @@ Please note:
 * [DependencyTrack/dependency-track:](https://github.com/DependencyTrack/dependency-track)  Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [tern-tools/tern](https://github.com/tern-tools/tern): Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 * [ComponentDetection](https://github.com/microsoft/component-detection): ComponentDetection is a package scanning tool intended to be used at build time. CD produces a graph-based output of all detected components and supports a variety of open source package ecosystems.
+* [cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) currently supports BOM analysis, modification, diffing, merging, format conversion, signing and verification
 
 ## Policy & admission control tools
 
@@ -64,7 +65,6 @@ Please note:
 
 * [SLSA](https://github.com/slsa-framework/slsa): security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity.
 * [Trillian](https://github.com/google/trillian): A transparent, highly scalable and cryptographically verifiable data store.
-* [cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli)
 * [vmware-samples/containers-with-sboms](https://github.com/vmware-samples/containers-with-sboms): End to End SBOM generation, signing, and distribution for container images
 * TODO: parse <https://github.com/awesomeSBOM/awesome-sbom>
   * Parse <https://github.com/mlieberman85/supply-chain-examples>
