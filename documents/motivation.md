@@ -19,9 +19,9 @@ What's most important, though, is that what we have is not enough for the threat
 There are four main elements of the current explosion of ideas and value creation surge:
 
 1. Practitioners across domains are rapidly prototyping ideas, often packaged as open source software, and communicating this across open communities
-2. Already existing solutions in established domains are being reevaluated with a different perspective and in some case adapted to work in broader scenarios
-3. Private (VC) investment in startups and other ventures that are primarily specializing in software supply chain security remains timid, especially when compared to other startup specialization areas, but has started to materialize
-4. Large software companies are funding industry-wide initiatives, organizations and programs specifically to tackle software supply chain security challenges
+1. Already existing solutions in established domains are being reevaluated with a different perspective and in some case adapted to work in broader scenarios
+1. Private (VC) investment in startups and other ventures that are primarily specializing in software supply chain security remains timid, especially when compared to other startup specialization areas, but has started to materialize
+1. Large software companies are funding industry-wide initiatives, organizations and programs specifically to tackle software supply chain security challenges
 
 As public attention surges, the flourishing of many new ideas is a net positive for supply chain security, but coordination challenges abound. These coordination challenges include poor reusability across use cases and scenarios due to siloed design choices, aggressive pace of change that breaks business continuity or creates operational risk, and hinderance of adoption and outcomes due to poor interoperability.
 
