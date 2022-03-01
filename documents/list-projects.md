@@ -65,7 +65,6 @@ Please note:
 
 * [SLSA](https://github.com/slsa-framework/slsa): security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity.
 * [Trillian](https://github.com/google/trillian): A transparent, highly scalable and cryptographically verifiable data store.
-* Parse <https://github.com/mlieberman85/supply-chain-examples>
 * [SCIM](https://github.com/microsoft/scim): supports the ongoing verification of artifacts, including hardware and software components, where the authenticity of entities, evidence, policy, and artifacts can be assured and the actions of entities can be guaranteed to be trustworthy, authorized, non-repudiable, immutable, and auditable.
 * [GitBOM](https://hackmd.io/@aeva/draft-gitbom-spec): a novel and minimalistic approach to generating artifact trees at build time, thereby enabling launch-time comparison of vulnerability data against a complete artifact tree for open source projects.
 * (NTIA) [Vulnerability Exploitability eXchange](https://docs.google.com/document/d/1sylBGNooKtf220RHQn1I8pZRmqXZQADDQ_TOABrKTpA/edit#heading=h.ss425olznxo) draft
