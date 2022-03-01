@@ -25,4 +25,4 @@ There are four main elements of the current explosion of ideas and value creatio
 
 As public attention surges, the flourishing of many new ideas is a net positive for supply chain security, but coordination challenges abound. These coordination challenges include poor reusability across use cases and scenarios due to siloed design choices, aggressive pace of change that breaks business continuity or creates operational risk, and hinderance of adoption and outcomes due to poor interoperability.
 
-While there are multiple factors contributing to these challenges, we believe that by drawing attention to the commonalities and differences in terminology, approaches and technology can provide transparency and possibly a common framework for understanding across participants. 
+While there are multiple factors contributing to these challenges, we believe that by drawing attention to the commonalities and differences in terminology, approaches and technology can provide transparency and possibly a common framework for understanding across participants.

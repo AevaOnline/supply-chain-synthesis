@@ -3,7 +3,7 @@ Background and Intent
 
 Human languages are ever-evolving, and meaning is imputed by the
 speaker, and this is doubly true within technical domains where domain-specific
-language is crucial to efficient collaboration and communication. 
+language is crucial to efficient collaboration and communication.
 
 2021 demonstrated that there are already wide-spread differences in imputed
 meanings of identical technical terms within the overarching domain of 'supply
