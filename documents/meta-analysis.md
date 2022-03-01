@@ -3,10 +3,12 @@ Meta Analysis of the OSS Supply Chain Security Landscape
 
 Background
 ---
+
 This document focuses on the meta analysis -- that is, what are the social currents, tech trends, and externalities that affect all technical work in this domain, but which are not themselves technical in nature.
 
 Externalities
 ---
+
 The recent EO, and the timeline it imposes upon the NTIA, has drawn extraordinary attention to this problem domain and created an unusually ripe opportunity for media engagement and public outreach. A public request for comments from NTIA yielded responses from over 100 organizations and individuals around the world, and has created a fixed timeline against which many organizations are working under increased pressure.
 
 Refs:
@@ -16,7 +18,8 @@ Refs:
 
 Meta Analysis
 ---
-In the Minimum Elements For a Software Bill of Materials , published on 12 July, 2021, the NTIA has recommended a reasonably low bar, as a minimum should be, while also outlining areas where the industry is encouraged to go above and beyond this proposal. 
+
+In the Minimum Elements For a Software Bill of Materials , published on 12 July, 2021, the NTIA has recommended a reasonably low bar, as a minimum should be, while also outlining areas where the industry is encouraged to go above and beyond this proposal.
 
 As the industry collaborates to build SSCM solutions, we should all be mindful to remember that iterative improvement is improvement, and not to hold back any solution that is iteratively better than our current state of the art merely because it is not yet a perfect or complete solution.
 
@@ -32,10 +35,12 @@ Refs:
 
 Hardware Plays a Part
 ---
+
 *TODO*
 
 Trusting Trust
 ---
+
 *TODO*
 
 Refs:
@@ -45,6 +50,7 @@ Refs:
 
 Risks and Recommendations
 ---
+
 The glamor of the press should not be conflated with sound engineering, but should not be dismissed. Well-run outreach work can generate a “snowball” effect, and transform small projects very rapidly, but must be sustained and well informed to have a lasting effect and yield healthy open source communities.
 
 There is a risk in thinking this problem can be solved by borrowing a technical solution originally designed for a single corporate domain: implicit assumptions of workflow or business objectives may not be valid in other contexts.

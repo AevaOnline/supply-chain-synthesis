@@ -1,5 +1,5 @@
 Background and Intent
-----
+===
 
 Human languages are ever-evolving, and meaning is imputed by the
 speaker, and this is doubly true within technical domains where domain-specific
