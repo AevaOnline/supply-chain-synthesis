@@ -15,3 +15,5 @@ This is work in progress, and thus incomplete.
   * [Prototype implementation](https://github.com/thesecuresoftwarefactory/ssf)
     * There have been plenty of alternative e2e poc implementations in this space, a few are listed below:
       * Michael Lieberman's [supply-chain-examples](https://github.com/mlieberman85/supply-chain-examples)
+      * [vmware-samples/containers-with-sboms](https://github.com/vmware-samples/containers-with-sboms): End to End SBOM generation, signing, and distribution for container images
+* [awesome-sbom:](https://github.com/awesomeSBOM/awesome-sbom) A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles
