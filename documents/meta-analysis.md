@@ -10,9 +10,9 @@ Externalities
 The recent EO, and the timeline it imposes upon the NTIA, has drawn extraordinary attention to this problem domain and created an unusually ripe opportunity for media engagement and public outreach. A public request for comments from NTIA yielded responses from over 100 organizations and individuals around the world, and has created a fixed timeline against which many organizations are working under increased pressure.
 
 Refs:
-- https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/ 
-- https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/workshop-and-call-position-papers 
-- https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/enhancing-software-supply-chain-security 
+- [Executive Order on Improving the Nation's Cybersecurity | The White House](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/) 
+- [Workshop and Call for Position Papers on Standards and Guidelines to Enhance Software Supply Chain Security | NIST](https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/workshop-and-call-position-papers) 
+- [Enhancing Software Supply Chain Security: Responses to Call for Position Papers on Standards and Guidelines | NIST](https://www.nist.gov/itl/executive-order-improving-nations-cybersecurity/enhancing-software-supply-chain-security) 
 
 Meta Analysis
 ---
@@ -27,7 +27,8 @@ Evidence of this can be seen in the fragmentation of efforts across - and outsid
 Some SDL techniques common in closed-source development practices may not be applicable to open source projects, as the domains are sufficiently different. Several discussions on this topic have been had within the OpenSSF, particularly the Digital Identity Attestation WG.
 
 Refs:
-- https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf 
+
+- [The Minimum Elements For a Software Bill of Materials (SBOM) | NTIA](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf) 
 
 Hardware Plays a Part
 ---
@@ -38,9 +39,9 @@ Trusting Trust
 *TODO*
 
 Refs:
-- https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
-- https://www.schneier.com/blog/archives/2006/01/countering_trus.html
 
+- [Reflections on Trusting Trust](https://users.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+- [Countering "Trusting Trust"](https://www.schneier.com/blog/archives/2006/01/countering_trus.html)
 
 Risks and Recommendations
 ---

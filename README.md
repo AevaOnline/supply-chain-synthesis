@@ -34,10 +34,6 @@ Status
 
 **WORK IN PROGRESS**
 
-I am moving my "Analysis of the supply chain landscape" gDoc from google to
+I am moving my ["Analysis of the supply chain landscape" gDoc](https://docs.google.com/document/d/1KT5QPCgVx_8UFIKv8-0k9GYjfcL3uvHmK4COOEGq_UQ) from google to
 github to make it easier to track changes and take contributions, and begin
 working in earnest on the 'synthesis' portion of this effort.
-
-OLD LINK: https://docs.google.com/document/d/1KT5QPCgVx_8UFIKv8-0k9GYjfcL3uvHmK4COOEGq_UQ
-
-
