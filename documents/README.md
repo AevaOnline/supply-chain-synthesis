@@ -14,4 +14,3 @@ Documentation Outline
 [Index of work to Map the Knowledge Domain](mapping-the-domain.md)
 
 [Reference Links](links-and-references.md)
-
