@@ -30,6 +30,7 @@ Please note:
   * Comprised of several projects: sigstore, rekor, cosign, fulcio, ...
     * [Cosign/Sget](https://github.com/sigstore/cosign)
     * [Rekor CLI](https://github.com/sigstore/rekor)
+* [Microsoft SBOM Tool](https://github.com/microsoft/sbom-tool): A CLI tool for generating SPDX 2.2 SBOMs. Based on Microsoft's Component Detection.
 
 ## Scanning and analysis tools
 
