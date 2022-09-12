@@ -31,6 +31,7 @@ Please note:
     * [Cosign/Sget](https://github.com/sigstore/cosign)
     * [Rekor CLI](https://github.com/sigstore/rekor)
 * [Microsoft SBOM Tool](https://github.com/microsoft/sbom-tool): A CLI tool for generating SPDX 2.2 SBOMs. Based on Microsoft's Component Detection.
+* [Aqua Trivy](https://github.com/aquasecurity/trivy): Universal security scanner that can generate SBOM/attestations for container images and code repositories in multiple formats.
 
 ## Scanning and analysis tools
 
@@ -43,6 +44,7 @@ Please note:
 * [tern-tools/tern](https://github.com/tern-tools/tern): Tern is a software composition analysis tool and Python library that generates a Software Bill of Materials for container images and Dockerfiles. The SBoM that Tern generates will give you a layer-by-layer view of what's inside your container in a variety of formats including human-readable, JSON, HTML, SPDX and more.
 * [ComponentDetection](https://github.com/microsoft/component-detection): ComponentDetection is a package scanning tool intended to be used at build time. CD produces a graph-based output of all detected components and supports a variety of open source package ecosystems.
 * [cyclonedx-cli](https://github.com/CycloneDX/cyclonedx-cli) currently supports BOM analysis, modification, diffing, merging, format conversion, signing and verification
+* [Aqua Trivy](https://github.com/aquasecurity/trivy): Universal security scanner that can scan container images, code repositories, or arbitrary SBOMs/attestations for known vulnerabilities.
 
 ## Policy & admission control tools
 
